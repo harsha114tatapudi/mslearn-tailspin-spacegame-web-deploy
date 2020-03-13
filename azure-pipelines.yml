@@ -3,6 +3,7 @@ trigger:
   
 variables:
     buildConfiguration: 'Release'
+    myvb: 'hello'
   
 stages:
 - stage: 'Build'
